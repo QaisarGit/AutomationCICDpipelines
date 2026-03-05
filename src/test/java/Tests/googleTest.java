@@ -14,6 +14,11 @@ public class googleTest extends baseClass{
 	        System.out.println(driver.getTitle());
 	        tearDown();
 	        System.out.println("success ====================== ");
+	        
+	        System.out.println("success ====================== ");
+
+	        System.out.println("success ====================== ");
+
 	 }
 
 }
